@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Simple extension allows in just one click on icon turn ON and OFF Dark Mode for Youtube website"
+   },
+   "name": {
+      "message": "Youtube simple dark"
+   },
+   "shortname": {
+      "message": "Youtube simple dark"
+   },
+   "title": {
+      "message": "Turn ON/OFF dark YouTube"
+   }
+}
